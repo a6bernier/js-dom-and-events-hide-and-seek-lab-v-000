@@ -1,6 +1,7 @@
 function getFirstSelector( s ) {
   return document.querySelector( s )
 }
+<<<<<<< HEAD
 
 function nestedTarget() {
   return document.querySelector( '#nested .target' )
@@ -29,3 +30,5 @@ function increaseRankBy( n ) {
     }
   }
 }
+=======
+>>>>>>> 1481b8cb2cf1ab41b0b5b014f219c211f822a6fc
